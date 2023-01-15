@@ -43,11 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataBaseCrudTest\DataBaseCrudTest.cs" />
+    <Compile Include="DataBestAnaliticsTest\DataBaseAnaliticsTest.cs" />
+    <Compile Include="LoadBalancerTest\LoadBalancerTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkerTest\WorkerTest.cs" />
+    <Compile Include="WriterTest\WriterTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
