@@ -8,6 +8,6 @@ namespace projekat.Worker
 {
     public interface IWorker
     {
-
+        
     }
 }
