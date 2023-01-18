@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace projekat.dataBaseCRUD
 {
-    public interface IDataBaseCRUD
-    {
+    public interface IDataBaseCRUD { 
 
     }
 }
