@@ -1,4 +1,5 @@
-﻿using System;
+﻿using projekat.LoadBalancer;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,6 @@ namespace projekat.Worker
 {
     public interface IWorker
     {
-        
+        void WorkerRepack(Description description);
     }
 }

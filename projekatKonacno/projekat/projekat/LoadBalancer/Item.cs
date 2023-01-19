@@ -6,43 +6,45 @@ using System.Threading.Tasks;
 
 namespace projekat.LoadBalancer
 {
-    public class Item
-    {
-        private int _code;
-        private int _value;
+	public class Item
+	{
 
-        public Item()
-        {
+		private int _code;
+		private int _value;
 
-        }
+		public Item()
+		{
 
-        ~Item()
-        {
+		}
 
-        }
+		~Item()
+		{
 
-        public int Code
-        {
-            get
-            {
-                return _code;
-            }
-            set
-            {
-                _code = value;
-            }
-        }
+		}
 
-        public int Value
-        {
-            get
-            {
-                return _value;
-            }
-            set
-            {
-                _value = value;
-            }
-        }
-    }
+		public int Code
+		{
+			get
+			{
+				return _code;
+			}
+			set
+			{
+				_code = value;
+			}
+		}
+
+		public int Value
+		{
+			get
+			{
+				return _value;
+			}
+			set
+			{
+				_value = value;
+			}
+		}
+
+	}
 }
