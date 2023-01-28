@@ -1,0 +1,34 @@
+C:\Users\Kirca\Desktop\projekatERS\projekatERS\Writer\obj\Debug\Writer.csprojAssemblyReference.cache
+C:\Users\Kirca\Desktop\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\Writer.exe.config
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\Writer.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\Writer.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.CopyComplete
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\obj\Debug\Writer.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Writer\obj\Debug\Writer.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\Writer.exe.config
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\Writer.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\Writer.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\obj\Debug\Writer.csproj.CopyComplete
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\obj\Debug\Writer.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Writer\obj\Debug\Writer.pdb

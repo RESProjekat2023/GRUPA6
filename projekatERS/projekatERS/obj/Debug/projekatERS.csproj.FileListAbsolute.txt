@@ -1,0 +1,34 @@
+C:\Users\Kirca\Desktop\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csprojAssemblyReference.cache
+C:\Users\Kirca\Desktop\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\projekatERS.exe.config
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\projekatERS.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\projekatERS.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.CopyComplete
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\projekatERS.exe.config
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\projekatERS.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\projekatERS.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.csproj.CopyComplete
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\projekatERS\obj\Debug\projekatERS.pdb

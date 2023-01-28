@@ -1,0 +1,28 @@
+C:\Users\Kirca\Desktop\projekatERS\projekatERS\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Kirca\Desktop\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\obj\Debug\Common.exe
+C:\Users\Helena\Desktop\PROJEKAT ERS NOVII\projekatERS\projekatERS\Common\obj\Debug\Common.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\obj\Debug\Common.exe
+C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\Common\obj\Debug\Common.pdb
