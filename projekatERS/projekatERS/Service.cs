@@ -21,6 +21,14 @@ namespace projekatERS
             }
         }
 
+        public Service(LoadBalancerImpl loada)
+        {
+            if(load == null)
+            {
+                load = loada;
+            }
+        }
+
         public void IskljcuiWorkera()
         {
             load.UkljuciWorkera();
@@ -35,5 +43,7 @@ namespace projekatERS
         {
             load.IskljcuiWorkera();
         }
+
+        public LoadBalancerImpl GetLoadBalancer() { return load; }
     }
 }

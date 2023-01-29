@@ -53,7 +53,7 @@
   <ItemGroup>
     <Compile Include="Brojilo.cs" />
     <Compile Include="IDataBaseAnaliticsService.cs" />
-    <Compile Include="IPotrosnjaBrojila.cs" />
+    <Compile Include="ILoadBalancer.cs" />
     <Compile Include="PotrosnjaBrojilo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

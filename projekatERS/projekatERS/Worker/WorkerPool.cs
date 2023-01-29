@@ -29,6 +29,18 @@ namespace projekatERS.Worker
             }
         }
 
+        public bool AllFree()
+        {
+            foreach (WorkerImpl wI in workerPool)
+            {
+                if (wI.Zauzet)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+
         private WorkerImpl GetFirstFreeWorker()
         {
             foreach (WorkerImpl wI in workerPool)

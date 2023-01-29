@@ -193,6 +193,16 @@ namespace projekatERS.DataBaseCRUD
                 command.ExecuteNonQuery();
             }
         }
+
+        public void DeleteAllPotrosnjaBrojilo()
+        {
+            using (SqlCommand command = new SqlCommand())
+            {
+                command.Connection = connection;
+                command.CommandText = "DELETE FROM potrosnja_brojila";
+                command.ExecuteNonQuery();
+            }
+        }
         public List<String> GetCities()
         {
 
@@ -216,6 +226,31 @@ namespace projekatERS.DataBaseCRUD
                 
                 // Check Error
                
+            }
+        }
+        public List<String> GetCitiesTest()
+        {
+
+            using (SqlCommand command = new SqlCommand())
+            {
+                List<String> gradovi = new List<string>();
+                command.Connection = connection;
+                command.CommandText = "SELECT distinct(grad) FROM brojilo b,potrosnja_brojila pb where b.id_brojila=pb.id_brojila";
+                using (SqlDataReader reader = command.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        gradovi.Add(reader.GetString(0));
+                    }
+                    return gradovi;
+                }
+
+
+
+
+
+                // Check Error
+
             }
         }
 

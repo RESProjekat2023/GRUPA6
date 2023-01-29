@@ -19,6 +19,12 @@ namespace Writer
                 new ChannelFactory<IPotrosnjaBrojilo>("ServiceName");
             proxy = channel.CreateChannel();
         }
+
+        public WriterImpl(IPotrosnjaBrojilo iPotrosnja)
+        {
+
+            proxy = iPotrosnja;
+        }
         public void GenerisiPodatke()
         {
             
@@ -46,6 +52,37 @@ namespace Writer
                     Recieve(pb, proxy);
                     Console.WriteLine(pb.ToString());
                     Thread.Sleep(400);
+                }
+
+            }
+        }
+
+        public void GenerisiPodatkeTest(IPotrosnjaBrojilo balancer)
+        {
+
+            int potrosnja;
+            Random random = new Random();
+            bool uslov = true;
+            int brojac = 0;
+            while (uslov)
+            {
+                int idBrojila = random.Next(1, 11);
+                int idPotrosnja = 0;
+                for (int i = 1; i < 13; i++)
+                {
+                    
+                    
+                    potrosnja = random.Next(100, 1000);
+                    PotrosnjaBrojilo pb = new PotrosnjaBrojilo(idBrojila, idPotrosnja, potrosnja, i);
+                    balancer.Recive(pb);
+                    Console.WriteLine(pb.ToString());
+                    Thread.Sleep(400);
+                    brojac++;
+                    if (brojac == 15)
+                    {
+                        uslov = false;
+                        break;
+                    }
                 }
 
             }

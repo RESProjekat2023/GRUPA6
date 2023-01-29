@@ -106,6 +106,11 @@ namespace projekatERS.LoadBalancer
         {
             UkljuceniWorkeri(false);
         }
+
+        public List<PotrosnjaBrojilo> GetPotrosnjaBrojilos()
+        {
+            return potrosnjaBrojilaBuffer;
+        }
     }
 
 }

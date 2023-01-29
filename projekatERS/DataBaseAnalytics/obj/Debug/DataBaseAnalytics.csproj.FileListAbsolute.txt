@@ -14,3 +14,35 @@ C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatER
 C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.CopyComplete
 C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.exe
 C:\Users\Helena\Desktop\NOVI PROJEKAT KONACNO VALJDA\NOVO\projekatERS\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\DataBaseAnalytics.exe.config
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\DataBaseAnalytics.exe
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\DataBaseAnalytics.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.CopyComplete
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.exe
+C:\Users\Helena\Desktop\GIT\GRUPA6\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\DataBaseAnalytics.exe.config
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\DataBaseAnalytics.exe
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\DataBaseAnalytics.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\Common.exe
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\Common.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\Common.exe.config
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.AssemblyReference.cache
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.csproj.CopyComplete
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.exe
+C:\Users\Helena\Desktop\GIT\GRUPA6\New folder\projekatERS\DataBaseAnalytics\obj\Debug\DataBaseAnalytics.pdb
