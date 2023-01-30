@@ -10,7 +10,7 @@ using Common;
 
 namespace projekatERS.DataBaseCRUD
 {
-    public class DataBaseCRUDImpl
+    public class DataBaseCRUDImpl:IDataBaseCrud
     {
         private SqlConnection connection;
         private string connectionString;

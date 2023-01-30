@@ -8,7 +8,7 @@ using projekatERS.DataBaseCRUD;
 
 namespace projekatERS
 {
-    public class DataBaseAnaliticsServiceImpl : IDataBaseAnaliticsService
+    public class DataBaseAnaliticsServiceImpl : IDataBaseAnaliticsService,IDataBaseAnalitics
     {
         private DataBaseCRUDImpl dataBaseCRUDImpl;
 

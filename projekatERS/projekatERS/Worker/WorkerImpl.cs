@@ -9,7 +9,7 @@ using projekatERS.DataBaseCRUD;
 
 namespace projekatERS.Worker
 {
-    public class WorkerImpl
+    public class WorkerImpl:IWorker
     {
         private bool zauzet;
 

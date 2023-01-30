@@ -9,7 +9,7 @@ using System.Threading;
 
 namespace Writer
 {
-    public class WriterImpl
+    public class WriterImpl:IWriter
     {
        
         

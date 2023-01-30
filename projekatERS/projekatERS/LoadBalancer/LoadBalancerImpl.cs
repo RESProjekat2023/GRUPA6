@@ -11,7 +11,7 @@ using projekatERS.Worker;
 
 namespace projekatERS.LoadBalancer
 {
-    public class LoadBalancerImpl : IPotrosnjaBrojilo
+    public class LoadBalancerImpl : IPotrosnjaBrojilo,ILoadBalancerR
     {
         private List<PotrosnjaBrojilo> potrosnjaBrojilaBuffer = new List<PotrosnjaBrojilo>();
         private static WorkerPool workerPool;
@@ -36,7 +36,7 @@ namespace projekatERS.LoadBalancer
         public LoadBalancerImpl()
         {
             DataBaseCRUDImpl dataBaseCRUDImpl = new DataBaseCRUDImpl();
-            Console.WriteLine("AAA");
+            
             if(workerPool== null)
             {
                 workerPool = new WorkerPool(dataBaseCRUDImpl);

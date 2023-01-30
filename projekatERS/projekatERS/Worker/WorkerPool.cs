@@ -20,7 +20,7 @@ namespace projekatERS.Worker
 
             workerPool = new List<WorkerImpl>();
 
-            Console.WriteLine("************ trebalo bi jednom");
+            
             for (int i = 0; i < 10; i++)
             {
                 WorkerImpl wI = new WorkerImpl(dataBaseCRUDImpl, this);

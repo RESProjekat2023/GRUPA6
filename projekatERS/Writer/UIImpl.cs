@@ -28,8 +28,8 @@ namespace Writer
                 Console.WriteLine("Izaberite opciju opciju:");
                 Console.WriteLine("1.Random generisanje stanja brojila");
                 Console.WriteLine("2.Manuelni unos podataka");
-                Console.WriteLine("3.Ukljuci Workera");
-                Console.WriteLine("4.Iskljuci Workera");
+                Console.WriteLine("3.Iskljuci Workera");
+                Console.WriteLine("4.Ukljuci Workera");
                 Console.WriteLine("5.Izlaz");
                 unos = Int32.Parse(Console.ReadLine());
 
@@ -51,13 +51,14 @@ namespace Writer
                         }
                     case 3:
                         {
-                            Console.WriteLine("\n**Ukljici Workera**\n");
+                            Console.WriteLine("\n**Iskljuci Workera**\n");
                             writer.UkjluciWorkera();
                             break;
                         }
                     case 4:
                         {
-                            Console.WriteLine("\n**Iskljuci Workera**\n");
+                            
+                            Console.WriteLine("\n**Ukljici Workera**\n");
                             writer.IskljuciWorkera();
                             break;
                         }

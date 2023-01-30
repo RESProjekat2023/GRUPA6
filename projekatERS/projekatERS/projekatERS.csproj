@@ -53,10 +53,14 @@
   <ItemGroup>
     <Compile Include="DataBaseAnaliticsServiceImpl.cs" />
     <Compile Include="DataBaseCRUD\DataBaseCRUDImpl.cs" />
+    <Compile Include="DataBaseCRUD\IDataBaseCrud.cs" />
+    <Compile Include="IDataBaseAnalitics.cs" />
+    <Compile Include="LoadBalancer\ILoadBalancerR.cs" />
     <Compile Include="LoadBalancer\LoadBalancerImpl.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service.cs" />
+    <Compile Include="Worker\IWorker.cs" />
     <Compile Include="Worker\WorkerImpl.cs" />
     <Compile Include="Worker\WorkerPool.cs" />
   </ItemGroup>

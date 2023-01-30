@@ -66,6 +66,7 @@
     <Compile Include="LoadBalancerTest.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkerTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -79,6 +80,10 @@
     <ProjectReference Include="..\projekatERS\projekatERS.csproj">
       <Project>{D9D2DB43-9810-44CF-B954-1308215558FC}</Project>
       <Name>projekatERS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Writer\Writer.csproj">
+      <Project>{0A5D864F-4382-4168-AE23-9DF22DC2901E}</Project>
+      <Name>Writer</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
